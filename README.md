@@ -16,8 +16,6 @@ A real-time system monitoring dashboard built with Python and Flask, containeriz
 
 > Real-time CPU and memory gauges update automatically. Alerts fire when usage exceeds 80%.
 
-*(Add a screenshot here — run the app locally and take a screenshot of the dashboard)*
-
 ---
 
 ## Architecture
