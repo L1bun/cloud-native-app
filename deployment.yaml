@@ -49,3 +49,8 @@ spec:
   - port: 80
     targetPort: 5000
   type: NodePort
+
+
+  Add health endpoint, liveness/readiness probes, and resource limits
+  
+  Fixes #1
