@@ -23,3 +23,8 @@ def health():
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
+
+
+  Add health endpoint, liveness/readiness probes, and resource limits
+  
+  Fixes #1
